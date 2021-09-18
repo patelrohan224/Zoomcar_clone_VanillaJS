@@ -139,7 +139,7 @@ Insert gif or link to demo
 #### Vishal Patil
 - Github  - [@vishalpatil12014017](https://github.com/vishalpatil12014017)
 
-## Github_Link-[Project_link](https://github.com/vishalpatil12014017/self-drive-car-rentals)
+## Github_Link-[Project_link](https://github.com/patelrohan224/Zoomcar_clone/tree/main)
 
 
 
