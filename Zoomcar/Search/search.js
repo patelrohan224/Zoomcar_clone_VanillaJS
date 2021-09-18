@@ -862,7 +862,7 @@
                                        console.log(db_array);
                                        const db_locations=JSON.stringify(db_array) 
                                       localStorage.setItem("pick_drop_points",db_locations);
-                                      window.open("car.html","_top")
+                                      window.open("../Car_page/car.html","_top")
                                    }
 
                                       if(d_ponit==""){
