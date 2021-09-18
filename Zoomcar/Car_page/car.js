@@ -209,7 +209,7 @@ let db_arr=localStorage.getItem("pick_drop_points")
             var div2_2_1=document.createElement("div");
             var span2_2_1=document.createElement("span");
             var img2_2_1=document.createElement("img");
-            img2_2_1.src="seat.png";
+            img2_2_1.src="../Images/seat.png";
             span2_2_1.append(img2_2_1);
             var span2_2_2=document.createElement("span");
             span2_2_2.innerText="5 Seater";
@@ -220,7 +220,7 @@ let db_arr=localStorage.getItem("pick_drop_points")
             var div2_2_3=document.createElement("div");
             var span2_2_3=document.createElement("span");
             var img2_2_3=document.createElement("img");
-            img2_2_3.src="car-.png";
+            img2_2_3.src="../Images/car-.png";
             span2_2_3.append(img2_2_3);
             var span2_2_4=document.createElement("span");
             span2_2_4.innerText=Product.drive;
@@ -231,7 +231,7 @@ let db_arr=localStorage.getItem("pick_drop_points")
             var div2_2_5=document.createElement("div");
             var span2_2_5=document.createElement("span");
             var img2_2_5=document.createElement("img");
-            img2_2_5.src="height.png";
+            img2_2_5.src="../Images/height.png";
             span2_2_5.append(img2_2_5);
             var span2_2_6=document.createElement("span");
             span2_2_6.innerText=Product.bags;
@@ -300,7 +300,7 @@ let db_arr=localStorage.getItem("pick_drop_points")
             var div2_2_1=document.createElement("div");
             var span2_2_1=document.createElement("span");
             var img2_2_1=document.createElement("img");
-            img2_2_1.src="seat.png";
+            img2_2_1.src="../Images/seat.png";
             span2_2_1.append(img2_2_1);
             var span2_2_2=document.createElement("span");
             span2_2_2.innerText="5 Seater";
@@ -311,7 +311,7 @@ let db_arr=localStorage.getItem("pick_drop_points")
             var div2_2_3=document.createElement("div");
             var span2_2_3=document.createElement("span");
             var img2_2_3=document.createElement("img");
-            img2_2_3.src="car-.png";
+            img2_2_3.src="../Images/car-.png";
             span2_2_3.append(img2_2_3);
             var span2_2_4=document.createElement("span");
             span2_2_4.innerText=Product.drive;
@@ -322,7 +322,7 @@ let db_arr=localStorage.getItem("pick_drop_points")
             var div2_2_5=document.createElement("div");
             var span2_2_5=document.createElement("span");
             var img2_2_5=document.createElement("img");
-            img2_2_5.src="height.png";
+            img2_2_5.src="../Images/height.png";
             span2_2_5.append(img2_2_5);
             var span2_2_6=document.createElement("span");
             span2_2_6.innerText=Product.bags;
@@ -420,7 +420,7 @@ let db_arr=localStorage.getItem("pick_drop_points")
             var div2_2_1=document.createElement("div");
             var span2_2_1=document.createElement("span");
             var img2_2_1=document.createElement("img");
-            img2_2_1.src="seat.png";
+            img2_2_1.src="../Images/seat.png";
             span2_2_1.append(img2_2_1);
             var span2_2_2=document.createElement("span");
             span2_2_2.innerText="5 Seater";
@@ -431,7 +431,7 @@ let db_arr=localStorage.getItem("pick_drop_points")
             var div2_2_3=document.createElement("div");
             var span2_2_3=document.createElement("span");
             var img2_2_3=document.createElement("img");
-            img2_2_3.src="car-.png";
+            img2_2_3.src="../Images/car-.png";
             span2_2_3.append(img2_2_3);
             var span2_2_4=document.createElement("span");
             span2_2_4.innerText=Product.drive;
@@ -442,7 +442,7 @@ let db_arr=localStorage.getItem("pick_drop_points")
             var div2_2_5=document.createElement("div");
             var span2_2_5=document.createElement("span");
             var img2_2_5=document.createElement("img");
-            img2_2_5.src="height.png";
+            img2_2_5.src="../Images/height.png";
             span2_2_5.append(img2_2_5);
             var span2_2_6=document.createElement("span");
             span2_2_6.innerText=Product.bags;
@@ -523,7 +523,7 @@ let db_arr=localStorage.getItem("pick_drop_points")
             var div2_2_1=document.createElement("div");
             var span2_2_1=document.createElement("span");
             var img2_2_1=document.createElement("img");
-            img2_2_1.src="./Images/seat.png"    
+            img2_2_1.src="../Images/seat.png"    
             span2_2_1.append(img2_2_1);
             var span2_2_2=document.createElement("span");
             span2_2_2.innerText="5 Seater";
@@ -534,7 +534,7 @@ let db_arr=localStorage.getItem("pick_drop_points")
             var div2_2_3=document.createElement("div");
             var span2_2_3=document.createElement("span");
             var img2_2_3=document.createElement("img");
-            img2_2_3.src="car-.png";
+            img2_2_3.src="../Images/car-.png";
             span2_2_3.append(img2_2_3);
             var span2_2_4=document.createElement("span");
             span2_2_4.innerText=Product.drive;
@@ -545,7 +545,7 @@ let db_arr=localStorage.getItem("pick_drop_points")
             var div2_2_5=document.createElement("div");
             var span2_2_5=document.createElement("span");
             var img2_2_5=document.createElement("img");
-            img2_2_5.src="height.png";
+            img2_2_5.src="../Images/height.png";
             span2_2_5.append(img2_2_5);
             var span2_2_6=document.createElement("span");
             span2_2_6.innerText=Product.bags;
